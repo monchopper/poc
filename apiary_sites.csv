@@ -1,0 +1,354 @@
+﻿subscriber_id,site_id,site_name,site_group_name,site_type,maf_number,lat,lon,landowner_id,trading_name,contract_name
+34,14593,37 Old Station Road,,DUMP_SITE,,-39.41053,175.39925,4286,,AWHI
+34,3744,AirStrip,Te Pa,PERMANENT,,-39.49696,175.39101,1384,Tepa Station,AWHI - Hamish
+34,23239,Airstrip Power Pole,Papahaua Permanent,BREEDING,222,-39.64642,175.17504,,,
+34,34814,Andys Corner,Queen Rearing,BREEDING,,-39.992208,175.106003,4232,,Ngati Apa
+34,3745,Bamber 01,Bamber,HONEY,33,-39.50718,175.12241,1393,,AWHI - Paul Bamber 
+34,3746,Bamber 02,Bamber,HONEY,29,-39.49962,175.12265,1393,,AWHI - Paul Bamber 
+34,3747,Bamber 03,Bamber,HONEY,167,-39.49575,175.11365,1393,,AWHI - Paul Bamber 
+34,12486,Bambers 04,Bamber,HONEY,19,-39.50163,175.11138,1393,,AWHI - Paul Bamber 
+34,12487,Bambers 05,Bamber,HONEY,16,-39.50582,175.11364,1393,,AWHI - Paul Bamber 
+34,19117,Bambers Bottom Site 01 ,Bamber,PERMANENT,165,-39.51521,175.12022,1393,,AWHI - Paul Bamber 
+34,19118,Bambers Bottom Site 02,Bamber,PERMANENT,166,-39.51439,175.11613,,,
+34,19470,Bambers honey 2019,Bamber,HONEY,163,-39.51225,175.11839,,,
+34,19101,Bambers Road Fork,Bamber,PERMANENT,168,-39.49933,175.10867,,,
+34,9839,Banana Bridge,Tawanui,HONEY,,-39.498302,175.289692,1388,Tawanui Station,AWHI - Steve Tapa
+34,3748,Boghole,Te Pa,HONEY,,-39.48893,175.43343,1384,Tepa Station,AWHI - Hamish
+34,34753,Bottom Central Skid,Queen Rearing,BREEDING,,-39.51,175.18,4232,,Ngati Apa
+34,9834,Bottom of Pa Hill,Te Pa,HONEY,,-39.48412,175.441107,1384,Tepa Station,AWHI - Hamish
+34,34799,Bottom Skid,Queen Rearing,BREEDING,,-39.8694,175.331022,4232,,Ngati Apa
+34,34807,Bull Paddock,Queen Rearing,BREEDING,,-40.249456,175.266556,4232,,Ngati Apa
+34,34804,Central Skid,Queen Rearing,BREEDING,,-39.9574,175.292136,4232,,Ngati Apa
+34,10014,Chopper,Te Pa,WINTERING,,-39.51668,175.34678,1384,Tepa Station,AWHI - Hamish
+34,3754,Colts House,Te Pa,HONEY,,-39.51484,175.34167,1384,Tepa Station,AWHI - Hamish
+34,34811,Concrete Pad,Queen Rearing,BREEDING,,-39.986147,175.101169,4232,,Ngati Apa
+34,34815,End Site Harakeke,Queen Rearing,BREEDING,,-39.995328,175.120689,4232,,Ngati Apa
+34,34800,End Site Okirea,Queen Rearing,BREEDING,,-39.869639,175.346644,4232,,Ngati Apa
+34,34816,Fenceline,Queen Rearing,BREEDING,,-39.992208,175.106003,4232,,Ngati Apa
+34,9837,Flooded,Te Pa,WINTERING,162,-39.536402,175.428074,1384,Tepa Station,AWHI - Hamish
+34,3763,Fodder Beet,Te Pa,HONEY,133,-39.53226,175.43735,1384,Tepa Station,AWHI - Hamish
+34,25066,Forest 2,Forest - Oha,WINTERING,265,-39.80885,175.21279,,,
+34,25067,Forest 3,Forest - Oha,WINTERING,266,-39.80642,175.21945,,,
+34,25068,Forest 4,Forest - Oha,WINTERING,264,-39.80607,175.22465,,,
+34,25069,Forest 5,Forest - Oha,WINTERING,267,-39.80686,175.22836,,,
+34,25070,Forest 6,Forest - Oha,WINTERING,268,-39.808851,175.231394,,,
+34,25071,Forest 7,Forest - Oha,WINTERING,269,-39.81093,175.23404,,,
+34,25072,Forest 8,Forest - Oha,WINTERING,270,-39.8132,175.23763,,,
+34,25073,Forest Back,Forest - Oha,WINTERING,271,-39.82164,175.22414,,,
+34,25065,Forest Back 2,Forest - Oha,WINTERING,321,-39.821465,175.227955,,,
+34,34752,Gate End,Queen Rearing,BREEDING,,-39.866878,175.305828,4232,,Ngati Apa
+34,34751,Gate Top End,Queen Rearing,BREEDING,,-39.862756,175.308236,4232,,Ngati Apa
+34,28698,Haitana 1,Makakahi,WINTERING,311,-39.343818,175.156403,6414,,Judy Haitana
+34,15357,Hinau 1,Lismore,WINTERING,,-39.81832,175.23372,,,
+34,15356,Hinau 2,Lismore,WINTERING,,-39.81907,175.23938,,,
+34,34810,Home Paddock,Queen Rearing,BREEDING,,-39.924833,175.276322,4232,,Ngati Apa
+34,34796,Horse Shoe,Queen Rearing,BREEDING,,-39.874133,175.331697,4232,,Ngati Apa
+34,32622,Koriniti Hut,Ruapirau,PERMANENT,,-39.68838,175.15379,6466,,Ruapirau Station
+34,27731,Kuratau 1,Omori,PERMANENT,,-38.88509,175.75514,6091,,Wallace
+34,24999,Kuratau River,Omori,PERMANENT,,-38.885182,175.757972,6091,,Wallace
+34,34805,L4,Queen Rearing,BREEDING,,-39.955067,175.299128,4232,,Ngati Apa
+34,14903,lismore 1,Lismore,WINTERING,,-39.82384,175.24671,,,
+34,11967,lismore 2,Lismore,WINTERING,,-39.82473,175.24941,,,
+34,25085,Mangaone 2km,Lismore,WINTERING,,-39.84033,175.19145,4232,,Ngati Apa
+34,25086,Mangaone 2km B,Lismore,WINTERING,,-39.8433,175.19192,4232,,Ngati Apa
+34,11949,Mangaone 4.5km,Lismore,WINTERING,,-39.83555,175.21827,4232,,Ngati Apa
+34,11882,Mangaone 7.5km,Lismore,WINTERING,,-39.82936,175.24418,4232,,Ngati Apa
+34,14463,Mangaone 7km,Lismore,WINTERING,,-39.83228,175.24083,4232,,Ngati Apa
+34,11952,Mangaone 8km,Lismore,WINTERING,,-39.82145,175.23981,4232,,Ngati Apa
+34,29165,Mochan 1,Makakahi,WINTERING,323,-39.37273,175.2724,6490,,Danny Mochan
+34,17497,Ngapoki,Te Pa,WINTERING,134,-39.51537,175.36002,1384,Tepa Station,AWHI - Hamish
+34,14595,Ngaporo Huikumu rd,Ngaporo,PERMANENT,77,-39.44856,175.13083,1396,,Ngaporo Trust
+34,18871,Ngaporo Kaitara ext rd,Ngaporo,PERMANENT,177,-39.438371,175.05071,,,
+34,18008,Ngaporo Ridge Top,Ngaporo,PERMANENT,149,-39.430636,175.185961,,,
+34,3770,Ngaporo (Waipuna Hill),Ngaporo,HONEY,76,-39.43894,175.18469,,,
+34,34812,Ngati Apa Rd 1,Queen Rearing,BREEDING,,-39.989689,175.107403,4232,,Ngati Apa
+34,34813,Ngati Apa Rd 2,Queen Rearing,BREEDING,,-39.99105,175.111058,4232,,Ngati Apa
+34,34806,Northern End,Queen Rearing,BREEDING,,-39.952883,175.29595,4232,,Ngati Apa
+34,15963,Oho Heli 1,Ohorea Heli,HONEY,96,-39.56292,175.30882,1389,Ohorea Station,AWHI - Rex Martin
+34,15964,Oho Heli 2,Ohorea Heli,HONEY,,-39.56846,175.30194,1389,Ohorea Station,AWHI - Rex Martin
+34,15970,Oho Heli 3,Ohorea Heli,HONEY,,-39.58033,175.32314,1389,Ohorea Station,AWHI - Rex Martin
+34,27720,oho heli 3.5,Ohorea Heli,HONEY,,-39.58042,175.31714,1389,Ohorea Station,AWHI - Rex Martin
+34,15968,Oho Heli 4,Ohorea Heli,HONEY,97,-39.56097,175.33763,1389,Ohorea Station,AWHI - Rex Martin
+34,15969,Oho Heli 5,Ohorea Heli,HONEY,,-39.56261,175.34052,1389,Ohorea Station,AWHI - Rex Martin
+34,17136,Oho Heli 6,Ohorea Heli,HONEY,98,-39.56396,175.37012,1389,Ohorea Station,AWHI - Rex Martin
+34,15972,Oho Heli 7A,Ohorea Heli,HONEY,,-39.55263,175.35452,1389,Ohorea Station,AWHI - Rex Martin
+34,15973,Oho Heli 7B,Ohorea Heli,HONEY,99,-39.55263,175.35528,1389,Ohorea Station,AWHI - Rex Martin
+34,15958,Oho Honey 1,Ohorea Honey sites,HONEY,164,-39.5451,175.29971,1389,Ohorea Station,AWHI - Rex Martin
+34,15976,Oho Honey 10,Ohorea Honey sites,HONEY,100,-39.54171,175.35017,1389,Ohorea Station,AWHI - Rex Martin
+34,15977,Oho Honey 11,Ohorea Honey sites,HONEY,,-39.54088,175.35356,1389,Ohorea Station,AWHI - Rex Martin
+34,3786,Oho Honey 12,Ohorea Honey sites,HONEY,101,-39.5455,175.35077,1389,Ohorea Station,AWHI - Rex Martin
+34,3787,Oho Honey 13,Ohorea Honey sites,HONEY,102,-39.54897,175.36214,1389,Ohorea Station,AWHI - Rex Martin
+34,3788,Oho Honey 14,Ohorea Honey sites,HONEY,103,-39.54531,175.36244,1389,Ohorea Station,AWHI - Rex Martin
+34,15974,Oho Honey 15,Ohorea Honey sites,HONEY,104,-39.55079,175.36637,1389,Ohorea Station,AWHI - Rex Martin
+34,15975,Oho Honey 16,Ohorea Honey sites,HONEY,,-39.54797,175.36742,1389,Ohorea Station,AWHI - Rex Martin
+34,15982,Oho Honey 17,Ohorea Honey sites,HONEY,105,-39.54224,175.36502,1389,Ohorea Station,AWHI - Rex Martin
+34,15983,Oho Honey 18,Ohorea Honey sites,HONEY,106,-39.54235,175.36872,1389,Ohorea Station,AWHI - Rex Martin
+34,15979,Oho Honey 19,Ohorea Honey sites,HONEY,228,-39.53936,175.36433,1389,Ohorea Station,AWHI - Rex Martin
+34,15960,Oho Honey 2,Ohorea Honey sites,HONEY,,-39.542,175.266,1389,Ohorea Station,AWHI - Rex Martin
+34,15981,Oho Honey 20,Ohorea Honey sites,HONEY,107,-39.5364,175.37662,1389,Ohorea Station,AWHI - Rex Martin
+34,15967,Oho Honey 3,Ohorea Honey sites,HONEY,108,-39.56708,175.28529,1389,Ohorea Station,AWHI - Rex Martin
+34,15966,Oho Honey 4,Ohorea Honey sites,HONEY,109,-39.56754,175.2924,1389,Ohorea Station,AWHI - Rex Martin
+34,15961,Oho Honey 5,Ohorea Honey sites,HONEY,110,-39.55789,175.2988,1389,Ohorea Station,AWHI - Rex Martin
+34,3789,Oho Honey 7,Ohorea Honey sites,HONEY,111,-39.55274,175.3432,1389,Ohorea Station,AWHI - Rex Martin
+34,3790,Oho Honey 8,Ohorea Honey sites,HONEY,112,-39.55733,175.3448,1389,Ohorea Station,AWHI - Rex Martin
+34,18329,Oho Honey 8.5,Ohorea Honey sites,HONEY,113,-39.55868,175.34886,1389,Ohorea Station,AWHI - Rex Martin
+34,15971,Oho Honey 9,Ohorea Honey sites,HONEY,233,-39.57403,175.35229,1389,Ohorea Station,AWHI - Rex Martin
+34,14591,Ohorea 1,Ohorea Permanent,PERMANENT,114,-39.53952,175.2996,1389,Ohorea Station,AWHI - Rex Martin
+34,3791,Ohorea 3,Ohorea Permanent,HONEY,116,-39.55061,175.27519,1389,Ohorea Station,AWHI - Rex Martin
+34,11970,Ohorea 4,Ohorea Permanent,HONEY,117,-39.55242,175.30337,1389,Ohorea Station,AWHI - Rex Martin
+34,3784,Ohorea 5,Ohorea Permanent,HONEY,118,-39.5437,175.32504,1389,Ohorea Station,AWHI - Rex Martin
+34,3785,Ohorea 6,Ohorea Permanent,HONEY,119,-39.54145,175.33623,1389,Ohorea Station,AWHI - Rex Martin
+34,28122,Ohorea dump B,Ohorea Heli,DUMP_SITE,,-39.55609,175.29526,1389,Ohorea Station,AWHI - Rex Martin
+34,19012,Ohorea Late,Ohorea Honey sites,HONEY,,-39.55676,175.35822,1389,Ohorea Station,AWHI - Rex Martin
+34,19014,Ohorea Late 2,Ohorea Honey sites,HONEY,,-39.56141,175.35935,1389,Ohorea Station,AWHI - Rex Martin
+34,18861,Ohotu rd dump 2,Ohorea Permanent,DUMP_SITE,120,-39.54288,175.33012,1389,Ohorea Station,AWHI - Rex Martin
+34,19544,Old Fields Track 01,Old Fields Track,WINTERING,,-39.49724,175.46154,1384,Tepa Station,AWHI - Hamish
+34,19545,Old Fields Track 02,Old Fields Track,WINTERING,,-39.50876,175.44883,,,
+34,19510,Old Fields Track 03,Old Fields Track,PERMANENT,,-39.51833,175.43603,1384,Tepa Station,AWHI - Hamish
+34,19546,Old Fields Track 04,Old Fields Track,WINTERING,,-39.52364,175.4401,1384,Tepa Station,AWHI - Hamish
+34,24996,Olive Grove,Omori,PERMANENT,,-38.903218,175.756648,6091,,Wallace
+34,24961,oma wool B,Te Pa,WINTERING,,-39.51109,175.36593,1384,Tepa Station,AWHI - Hamish
+34,24998,Omori Cattle Yards,Omori,PERMANENT,,-38.905333,175.749303,6091,,Wallace
+34,27085,Omori Kennels,Omori,PERMANENT,,-38.88404,175.75276,6091,,Wallace
+34,23822,Operiki Cliff,Papahaua Permanent,PERMANENT,,-39.65078,175.17701,1387,Papahaua Station,AWHI - Justin Booth
+34,3765,Pa Hill yards,Te Pa,HONEY,,-39.49066,175.44129,1384,Tepa Station,AWHI - Hamish
+34,3768,Papahaua 04,Papahaua Permanent,HONEY,184,-39.56195,175.25461,1387,Papahaua Station,AWHI - Justin Booth
+34,28278,Papahaua 100,Papahaua Heli,HONEY,285,-39.5643,175.17131,,,
+34,28279,Papahaua 101,Papahaua Heli,HONEY,286,-39.56024,175.18855,1387,Papahaua Station,AWHI - Justin Booth
+34,28280,Papahaua 102,Papahaua Heli,HONEY,287,-39.56441,175.18704,1387,Papahaua Station,AWHI - Justin Booth
+34,28281,Papahaua 103,Papahaua Heli,HONEY,288,-39.56298,175.19106,1387,Papahaua Station,AWHI - Justin Booth
+34,28285,Papahaua 107,Papahaua Heli,HONEY,292,-39.5835,175.20764,1387,Papahaua Station,AWHI - Justin Booth
+34,28287,Papahaua 109,Papahaua Heli,HONEY,294,-39.59629,175.21992,1387,Papahaua Station,AWHI - Justin Booth
+34,28288,Papahaua 110,Papahaua Heli,HONEY,295,-39.60643,175.22034,1387,Papahaua Station,AWHI - Justin Booth
+34,28289,Papahaua 111,Papahaua Heli,HONEY,296,-39.61353,175.23288,1387,Papahaua Station,AWHI - Justin Booth
+34,26397,Papahaua 112,Papahaua Heli,HONEY,297,-39.62099,175.18967,1387,Papahaua Station,AWHI - Justin Booth
+34,26398,Papahaua 113,Papahaua Heli,HONEY,298,-39.6145,175.19807,1387,Papahaua Station,AWHI - Justin Booth
+34,19346,Papahaua 114 ,Papahaua Permanent,PERMANENT,178,-39.58842,175.20828,1387,Papahaua Station,AWHI - Justin Booth
+34,26406,Papahaua 115,Papahaua Heli,HONEY,300,-39.571944,175.162026,1387,Papahaua Station,AWHI - Justin Booth
+34,15999,Papahaua 116,Papahaua Heli,HONEY,170,-39.62087,175.1994,,,
+34,16000,Papahaua 117,Papahaua Heli,HONEY,171,-39.612429,175.187882,,,
+34,12619,Papahaua 118,Papahaua Heli,HONEY,173,-39.6094,175.20707,,,
+34,12620,Papahaua 119,Papahaua Permanent,HONEY,123,-39.61533,175.16946,1391,Operiki Station,AWHI - Justin Booth
+34,23363,Papahaua 120,Papahaua Permanent,PERMANENT,220,-39.60793,175.16794,1387,Papahaua Station,AWHI - Justin Booth
+34,23823,Papahaua 121,Papahaua Permanent,PERMANENT,221,-39.60427,175.16514,,,
+34,15991,Papahaua 123,Papahaua Permanent,PERMANENT,95,-39.59701,175.17163,1387,Papahaua Station,AWHI - Justin Booth
+34,15992,Papahaua 124,Papahaua Permanent,HONEY,91,-39.5963,175.17488,1387,Papahaua Station,AWHI - Justin Booth
+34,20071,Papahaua 125,Papahaua Heli,HONEY,224,-39.58923,175.17268,,,
+34,19362,Papahaua 126,Papahaua Heli,HONEY,225,-39.58394,175.17169,1387,Papahaua Station,AWHI - Justin Booth
+34,19354,Papahaua 127,Papahaua Heli,HONEY,226,-39.57753,175.17711,,,
+34,26403,Papahaua 128,Papahaua Heli,HONEY,341,-39.57167,175.17188,1387,Papahaua Station,AWHI - Justin Booth
+34,12434,Papahaua 130,Papahaua Permanent,HONEY,78,-39.59081,175.18474,1387,Papahaua Station,AWHI - Justin Booth
+34,23662,Papahaua 131,Papahaua Permanent,PERMANENT,179,-39.59268,175.20539,1387,Papahaua Station,AWHI - Justin Booth
+34,12435,Papahaua 132,Papahaua Permanent,HONEY,79,-39.59045,175.19371,1387,Papahaua Station,AWHI - Justin Booth
+34,12436,Papahaua 133,Papahaua Permanent,HONEY,80,-39.59023,175.20235,1387,Papahaua Station,AWHI - Justin Booth
+34,28293,Papahaua 134,Papahaua Heli,HONEY,302,-39.60014,175.18918,1387,Papahaua Station,AWHI - Justin Booth
+34,28294,Papahaua 135,Papahaua Heli,HONEY,303,-39.6132,175.21272,1387,Papahaua Station,AWHI - Justin Booth
+34,28295,Papahaua 136,Papahaua Heli,HONEY,304,-39.61832,175.2231,1387,Papahaua Station,AWHI - Justin Booth
+34,28296,Papahaua 137,Papahaua Heli,HONEY,305,-39.61697,175.22001,1387,Papahaua Station,AWHI - Justin Booth
+34,28297,Papahaua 138,Papahaua Heli,HONEY,306,-39.60241,175.23317,1387,Papahaua Station,AWHI - Justin Booth
+34,28298,Papahaua 139,Papahaua Heli,HONEY,307,-39.59475,175.22728,1387,Papahaua Station,AWHI - Justin Booth
+34,28299,Papahaua 140,Papahaua Heli,HONEY,308,-39.58785,175.22731,1387,Papahaua Station,AWHI - Justin Booth
+34,19082,Papahaua 141,Papahaua Heli,HONEY,217,-39.57878,175.25273,1387,Papahaua Station,AWHI - Justin Booth
+34,19083,Papahaua 142,Papahaua Heli,HONEY,218,-39.58068,175.25934,1387,Papahaua Station,AWHI - Justin Booth
+34,19084,Papahaua 143,Papahaua Heli,HONEY,219,-39.57662,175.25036,1387,Papahaua Station,AWHI - Justin Booth
+34,17687,Papahaua 144,Papahaua Permanent,PERMANENT,70,-39.56855,175.26059,,,
+34,10580,Papahaua 145,Papahaua Permanent,WINTERING,183,-39.56891,175.2661,1387,Papahaua Station,AWHI - Justin Booth
+34,18126,Papahaua 146,Papahaua Permanent,PERMANENT,,-39.57393,175.26609,1387,Papahaua Station,AWHI - Justin Booth
+34,18009,Papahaua 147,Papahaua Permanent,PERMANENT,177,-39.5584,175.23614,1387,Papahaua Station,AWHI - Justin Booth
+34,27730,Papahaua 148,Papahaua Permanent,PERMANENT,,-39.56298,175.267,1387,Papahaua Station,AWHI - Justin Booth
+34,17110,Papahaua 180,Papahaua Heli,HONEY,310,-39.60961,175.2131,1387,Papahaua Station,AWHI - Justin Booth
+34,28286,Papahaua 181,Papahaua Heli,HONEY,293,-39.59799,175.21162,1387,Papahaua Station,AWHI - Justin Booth
+34,32953,Papahaua 183,Papahaua Heli,HONEY,328,-39.54779,175.24534,1387,Papahaua Station,AWHI - Justin Booth
+34,33918,Papahaua 184,Papahaua Heli,HONEY,339,-39.5637,175.21714,1387,Papahaua Station,AWHI - Justin Booth
+34,33919,Papahaua 185,Papahaua Heli,HONEY,340,-39.55689,175.21182,1387,Papahaua Station,AWHI - Justin Booth
+34,19355,Papahaua 186,Papahaua Heli,HONEY,227,-39.57481,175.17538,1387,Papahaua Station,AWHI - Justin Booth
+34,33920,Papahaua 187,Papahaua Heli,HONEY,342,-39.567032,175.19826,1387,Papahaua Station,AWHI - Justin Booth
+34,33921,Papahaua 188,Papahaua Heli,HONEY,343,-39.580511,175.169034,1387,Papahaua Station,AWHI - Justin Booth
+34,12474,Papahaua 222,Papahaua Permanent,HONEY,121,-39.59829,175.16872,1387,Papahaua Station,AWHI - Justin Booth
+34,3779,Pip1,Pip,HONEY,,-39.48372,175.1212,,,
+34,3780,Pip2,Pip,HONEY,,-39.47712,175.13077,,,
+34,3781,Pip3,Pip,HONEY,,-39.47403,175.14395,,,
+34,3769,Pip Site,Pip,HONEY,,-39.48241,175.12299,,,
+34,25045,Prison 1,Prison,WINTERING,274,-39.99426,175.10722,4232,,Ngati Apa
+34,25046,Prison 2,Prison,WINTERING,272,-39.99775,175.11635,4232,,Ngati Apa
+34,25047,Prison 3,Prison,WINTERING,275,-40.00045,175.12772,4232,,Ngati Apa
+34,25048,Prison 4,Prison,WINTERING,276,-40.00286,175.13282,4232,,Ngati Apa
+34,25049,Prison 5,Prison,WINTERING,277,-40.00049,175.13643,4232,,Ngati Apa
+34,25050,Prison 6,Prison,WINTERING,273,-40.00129,175.13937,4232,,Ngati Apa
+34,25051,Prison 7,Prison,WINTERING,278,-39.99542,175.12826,4232,,Ngati Apa
+34,25052,Prison 8,Prison,WINTERING,279,-39.99353,175.12394,4232,,Ngati Apa
+34,29051,Prison Corner,Prison 2,WINTERING,,-39.990303,175.122514,6451,,Alan Turia
+34,29050,Prison Paddock,Prison 2,WINTERING,,-39.99228,175.12695,6451,,Alan Turia
+34,29052,Prison Valley,Prison 2,WINTERING,,-40.019597,175.162629,6451,,Alan Turia
+34,3782,Queen Yard,Te Pa,BREEDING,,-39.50883,175.37575,1384,Tepa Station,AWHI - Hamish
+34,9860,Railway,Te Pa,WINTERING,,-39.51652,175.34902,1384,Tepa Station,AWHI - Hamish
+34,19926,Rakays Middle,Papahaua Permanent,WINTERING,180,-39.59175,175.14559,,,
+34,17214,Rakays Old house,Papahaua Permanent,PERMANENT,84,-39.59202,175.13734,1387,Papahaua Station,AWHI - Justin Booth
+34,17223,Rakays Roadside,Papahaua Permanent,PERMANENT,,-39.593269,175.135613,1387,Papahaua Station,AWHI - Justin Booth
+34,17212,Rakays Top gate,Papahaua Permanent,PERMANENT,86,-39.59382,175.14743,1387,Papahaua Station,AWHI - Justin Booth
+34,34649,Raumai 1,Santoft,WINTERING,,-40.19404,175.2181,4232,,Ngati Apa
+34,34650,Raumai 2,Santoft,WINTERING,,-40.18982,175.21559,4232,,Ngati Apa
+34,34651,Raumai 3,Santoft,WINTERING,,-40.18644,175.20824,4232,,Ngati Apa
+34,24704,Retaruke  Bamboo,Retaruke,PERMANENT,,-39.07179,175.20674,,,
+34,24993,Retaruke Barn,Retaruke,PERMANENT,,-39.051251,175.235852,6090,,Peter & Anne Hawkins
+34,24705,Retaruke Cliff,Retaruke,PERMANENT,,-39.07215,175.20458,,,
+34,27729,Retaruke falls,Retaruke,PERMANENT,,-39.04598,175.23878,6090,,Peter & Anne Hawkins
+34,24992,Retaruke House,Retaruke,PERMANENT,,-39.064238,175.227571,6090,,Peter & Anne Hawkins
+34,23508,RF Corner,Ritchfields,HONEY,206,-39.49003,175.15054,,,
+34,23506,RF Heli 1,Ritchfields,HONEY,209,-39.48776,175.15667,,,
+34,23513,RF Heli 2,Ritchfields,HONEY,210,-39.49575,175.1544,,,
+34,23515,RF Heli 3,Ritchfields,HONEY,211,-39.49836,175.15015,,,
+34,23517,RF Heli 4,Ritchfields,HONEY,212,-39.49809,175.14105,,,
+34,23518,RF Heli 5,Ritchfields,HONEY,213,-39.49149,175.13294,,,
+34,23519,RF Heli 6,Ritchfields,HONEY,214,-39.49278,175.12885,,,
+34,23520,RF Heli 7,Ritchfields,HONEY,215,-39.50175,175.13777,,,
+34,23521,RF Heli 8,Ritchfields,HONEY,216,-39.51288,175.14222,,,
+34,23510,RF Hut,Ritchfields,HONEY,207,-39.48604,175.14681,,,
+34,19660,RFT 1,Ritchfields,PERMANENT,188,-39.46211,175.15921,,,
+34,19661,RFT 2,Ritchfields,PERMANENT,189,-39.46539,175.15911,,,
+34,19662,RFT 3,Ritchfields,PERMANENT,190,-39.46875,175.15761,,,
+34,23502,RFT 4,Waipuna,HONEY,204,-39.47609,175.15638,,,
+34,23504,RFT 5,Ritchfields,HONEY,205,-39.48031,175.1537,,,
+34,23512,RF Top,Ritchfields,HONEY,208,-39.48726,175.14194,,,
+34,34809,River Paddock,Queen Rearing,BREEDING,,-39.920717,175.2817,4232,,Ngati Apa
+34,32875,Rjwells 4,Lismore,WINTERING,,-39.82783,175.25943,4232,,Ngati Apa
+34,14464,RJ Wells Rd 1,Lismore,WINTERING,,-39.82876,175.24803,4232,,Ngati Apa
+34,14465,RJ Wells rd 2,Lismore,WINTERING,,-39.83042,175.25349,4232,,Ngati Apa
+34,11881,RJ Wells Rd 3,Lismore,WINTERING,,-39.8282,175.25913,,,
+34,17964,rjwells splits,Lismore,WINTERING,,-39.82885,175.2572,4232,,Ngati Apa
+34,34808,Road Paddock,Queen Rearing,BREEDING,,-40.251886,175.271394,4232,,Ngati Apa
+34,33079,Rua Crossing 1,Ruapirau,HONEY,353,-39.63416,175.18984,6466,,Ruapirau Station
+34,33081,Rua Crossing 2,Ruapirau,HONEY,349,-39.63204,175.19787,6466,,Ruapirau Station
+34,33082,Rua Crossing 3,Ruapirau,HONEY,354,-39.62945,175.20982,6466,,Ruapirau Station
+34,33086,Rua Heli 1,Ruapirau,HONEY,357,-39.65873,175.203,6466,,Ruapirau Station
+34,33087,Rua Heli 2,Ruapirau,HONEY,360,-39.65941,175.19302,6466,,Ruapirau Station
+34,33088,Rua Heli 3,Ruapirau,HONEY,361,-39.64931,175.19277,6466,,Ruapirau Station
+34,33092,Rua Hut,Ruapirau,HONEY,363,-39.66165,175.21103,6466,,Ruapirau Station
+34,33323,Rua Mid 1,Ruapirau,HONEY,352,-39.63806,175.1958,6466,,Ruapirau Station
+34,33324,Rua Mid 2,Ruapirau,HONEY,345,-39.64002,175.20011,6466,,Ruapirau Station
+34,33080,Rua Not used,Ruapirau,HONEY,,-39.63204,175.19787,6466,,Ruapirau Station
+34,29090,Rua Paddock,,PERMANENT,346,-39.6313,175.16953,6466,,Ruapirau Station
+34,33090,Rua Right 1,Ruapirau,HONEY,358,-39.66876,175.20716,6466,,Ruapirau Station
+34,33094,Rua Right 3,Ruapirau,HONEY,364,-39.66916,175.21664,6466,,Ruapirau Station
+34,33075,Rua T1,Ruapirau,HONEY,347,-39.628,175.17676,6466,,Ruapirau Station
+34,33076,Rua T2,Ruapirau,HONEY,345,-39.62891,175.18379,6466,,Ruapirau Station
+34,33077,Rua T3,Ruapirau,HONEY,348,-39.63947,175.19239,6466,,Ruapirau Station
+34,33078,Rua T4,Ruapirau,HONEY,351,-39.6416,175.19456,6466,,Ruapirau Station
+34,33089,Rua Top 1,Ruapirau,HONEY,362,-39.66582,175.20731,6466,,Ruapirau Station
+34,33093,Rua Top 2,Ruapirau,HONEY,365,-39.66502,175.21355,6466,,Ruapirau Station
+34,33095,Rua Top 3,Ruapirau,HONEY,366,-39.66239,175.21661,6466,,Ruapirau Station
+34,33096,Rua Top 4,Ruapirau,HONEY,367,-39.66143,175.22028,6466,,Ruapirau Station
+34,33097,Rua Top 5,Ruapirau,HONEY,368,-39.66299,175.22098,6466,,Ruapirau Station
+34,33098,Rua Top 6,Ruapirau,HONEY,370,-39.6645,175.22813,6466,,Ruapirau Station
+34,33099,Rua Top 7,Ruapirau,HONEY,369,-39.66411,175.23056,6466,,Ruapirau Station
+34,33100,Rua Top 8,Ruapirau,HONEY,371,-39.66113,175.23133,6466,,Ruapirau Station
+34,33091,Rua Top Left,Ruapirau,HONEY,359,-39.66163,175.20563,6466,,Ruapirau Station
+34,33101,Rua Top Paddock,Ruapirau,HONEY,372,-39.65911,175.23676,6466,,Ruapirau Station
+34,33083,Rua Valley 1,Ruapirau,HONEY,356,-39.63593,175.20946,6466,,Ruapirau Station
+34,33084,Rua Valley 2,Ruapirau,HONEY,355,-39.63957,175.21035,6466,,Ruapirau Station
+34,33085,Rua Valley 3,Ruapirau,HONEY,350,-39.64205,175.21251,6466,,Ruapirau Station
+34,33902,Safari 1,Te Pa,HONEY,,-39.53545,175.40967,1384,Tepa Station,AWHI - Hamish
+34,33903,Safari 2,Te Pa,HONEY,,-39.53368,175.40932,1384,Tepa Station,AWHI - Hamish
+34,34655,Santoft Gate ,Santoft,WINTERING,,-40.13412,175.19124,4232,,Ngati Apa
+34,34656,Santoft Gate L1,Santoft,WINTERING,,-40.13033,175.18564,4232,,Ngati Apa
+34,34657,Santoft Gate L2,,WINTERING,,-40.12684,175.18274,,,
+34,34658,Santoft Gate L3,Santoft,WINTERING,,-40.12302,175.18187,4232,,Ngati Apa
+34,34652,Santoft L1,Santoft,WINTERING,,-40.14119,175.20943,4232,,Ngati Apa
+34,34653,Santoft L2,Santoft,WINTERING,,-40.14023,175.20034,4232,,Ngati Apa
+34,34654,Santoft L3,Santoft,WINTERING,,-40.13791,175.19284,4232,,Ngati Apa
+34,3792,Shelterbelt,Tawanui,HONEY,,-39.50645,175.32323,1388,Tawanui Station,AWHI - Steve Tapa
+34,23240,Sids Barn,Papahaua Permanent,BREEDING,,-39.61825,175.1704,,,
+34,34801,Southern End,Queen Rearing,BREEDING,,-39.965236,175.279875,4232,,Ngati Apa
+34,34803,Stump Site,Queen Rearing,BREEDING,,-39.958544,175.291131,4232,,Ngati Apa
+34,34802,Swamp Rd,Queen Rearing,BREEDING,,-39.962108,175.279439,4232,,Ngati Apa
+34,9844,Tawanui 1,Tawanui,HONEY,,-39.502065,175.31139,1388,Tawanui Station,AWHI - Steve Tapa
+34,12479,Te Kowhai 01,Te Kowhai Permanent,HONEY,73,-39.49027,175.05239,1391,Operiki Station,AWHI - Justin Booth
+34,12617,Te Kowhai 01 Heli,Te Kowhai Heli,HONEY,155,-39.503523,175.066936,1391,Operiki Station,AWHI - Justin Booth
+34,12480,Te Kowhai 02,Te Kowhai Permanent,HONEY,74,-39.49352,175.05464,1391,Operiki Station,AWHI - Justin Booth
+34,12616,Te Kowhai 02 Heli,Te Kowhai Heli,HONEY,,-39.513942,175.056309,1391,Operiki Station,AWHI - Justin Booth
+34,17158,Te Kowhai 03,Te Kowhai Permanent,PERMANENT,75,-39.49642,175.05221,1386,Waipuna Station,AWHI - Greg Shaw
+34,16005,Te Kowhai 03 Heli,Te Kowhai Heli,HONEY,,-39.516273,175.0614,,,
+34,3778,Te Kowhai 04 Heli,Te Kowhai Heli,HONEY,156,-39.505638,175.061064,1391,Operiki Station,AWHI - Justin Booth
+34,16006,Te Kowhai 05 Heli,Te Kowhai Heli,HONEY,,-39.506405,175.067832,,,
+34,16007,Te Kowhai 06 Heli,Te Kowhai Heli,HONEY,132,-39.510015,175.067832,,,
+34,12615,Te Kowhai 07 Heli,Te Kowhai Heli,HONEY,157,-39.518791,175.057186,1391,Operiki Station,AWHI - Justin Booth
+34,12481,Te Kowhai 08 Heli,Te Kowhai Heli,HONEY,158,-39.500071,175.065754,1391,Operiki Station,AWHI - Justin Booth
+34,3777,Te Kowhai 09 Heli,Te Kowhai Heli,HONEY,159,-39.504081,175.062306,1391,Operiki Station,AWHI - Justin Booth
+34,12478,Te Kowhai Dam,Te Kowhai Permanent,HONEY,71,-39.49284,175.05958,1386,Waipuna Station,AWHI - Greg Shaw
+34,17211,Te Kowhai Riverside,Te Kowhai Permanent,PERMANENT,72,-39.50294,175.04588,1391,Operiki Station,AWHI - Justin Booth
+34,19931,Te Kowhai Top 3,Te Kowhai Permanent,PERMANENT,186,-39.50972,175.05339,,,
+34,18100,Te Kowhai Top Big Rock,Te Kowhai Permanent,PERMANENT,160,-39.5082,175.05363,1391,Operiki Station,AWHI - Justin Booth
+34,19930,Te Kowhai Top Corner,Te Kowhai Permanent,WINTERING,187,-39.50488,175.04873,,,
+34,18101,Te Kowhai Top No.1,Te Kowhai Permanent,PERMANENT,161,-39.50525,175.04933,1391,Operiki Station,AWHI - Justin Booth
+34,12967,Te Paenga 1,Te Paenga Heli,HONEY,137,-39.57859,175.28434,1390,Te Paenga Station,AWHI - Sheldon  O Hagen
+34,27689,Te paenga 1 B,Te Paenga Heli,HONEY,,-39.5767,175.28988,1390,Te Paenga Station,AWHI - Sheldon  O Hagen
+34,9852,Te Paenga 2,Te Paenga ,HONEY,138,-39.582325,175.279,1390,Te Paenga Station,AWHI - Sheldon  O Hagen
+34,10582,Te Paenga 3,Te Paenga ,WINTERING,139,-39.58949,175.28218,1390,Te Paenga Station,AWHI - Sheldon  O Hagen
+34,17155,Te Paenga 5,Te Paenga ,PERMANENT,230,-39.61153,175.30395,1390,Te Paenga Station,AWHI - Sheldon  O Hagen
+34,9851,Te Paenga 6,Te Paenga ,HONEY,,-39.627107,175.31269,1390,Te Paenga Station,AWHI - Sheldon  O Hagen
+34,18987,Te Paenga 7,Te Paenga ,PERMANENT,,-39.63265,175.31391,1390,Te Paenga Station,AWHI - Sheldon  O Hagen
+34,27086,Te Paenga 8,Te Paenga ,PERMANENT,,-39.59709,175.2859,1390,Te Paenga Station,AWHI - Sheldon  O Hagen
+34,27728,Te Paenga 9 ,Te Paenga ,PERMANENT,,-39.60723,175.29783,1390,Te Paenga Station,AWHI - Sheldon  O Hagen
+34,12963,Te Paenga Heli 1,Te Paenga Heli,HONEY,143,-39.58846,175.2585,,,
+34,12964,Te Paenga Heli 2,Te Paenga Heli,HONEY,138,-39.58947,175.26804,1390,Te Paenga Station,AWHI - Sheldon  O Hagen
+34,12965,Te Paenga Heli 3,Te Paenga Heli,HONEY,,-39.60496,175.25832,1390,Te Paenga Station,AWHI - Sheldon  O Hagen
+34,12969,Te Paenga Heli 5,Te Paenga Heli,HONEY,146,-39.57559,175.3049,1390,Te Paenga Station,AWHI - Sheldon  O Hagen
+34,19677,Te pa reserve,Te Pa,WINTERING,,-39.4946,175.4033,1384,Tepa Station,AWHI - Hamish
+34,19700,Te Pa woolshed,Te Pa,WINTERING,,-39.49949,175.42819,1384,Tepa Station,AWHI - Hamish
+34,33904,test 123,,BREEDING,,-38.4525,174.51653,,,
+34,19122,Tohunga 1,Tohunga,PERMANENT,,-39.39428,175.36836,5207,Tohunga station,AWHI-simon
+34,19123,Tohunga 2,Tohunga,PERMANENT,,-39.39565,175.36608,5207,Tohunga station,AWHI-simon
+34,28215,Tohunga Nucs,,DUMP_SITE,,-39.395359,175.374004,5207,Tohunga station,AWHI-simon
+34,24285,Tohunga QueenRearing,Retaruke,BREEDING,,-39.39982,175.38084,5207,Tohunga station,AWHI-simon
+34,32406,Tokaanu 1,Omori,WINTERING,324,-38.98807,175.77052,6091,,Wallace
+34,32407,Tokaanu 2,Omori,WINTERING,325,-38.98427,175.77672,6091,,Wallace
+34,32442,Tokaanu 3,Omori,WINTERING,,-38.987091,175.777935,6091,,Wallace
+34,34797,Tripe Rd 1,Queen Rearing,BREEDING,,-39.868969,175.306875,4232,,Ngati Apa
+34,34798,Tripe Rd 2,Queen Rearing,BREEDING,,-39.870003,175.317228,4232,,Ngati Apa
+34,32988,Tukaanu 4,Omori,WINTERING,329,-38.98326,175.7746,6091,,Wallace
+34,14459,Tutu Rd 1,Lismore,WINTERING,,-39.81926,175.24834,4232,,Ngati Apa
+34,14461,Tutu Rd 3,Lismore,WINTERING,,-39.82526,175.27047,4232,,Ngati Apa
+34,22413,Under Kanuka,Papahaua Permanent,BREEDING,,-39.65341,175.16898,1387,Papahaua Station,AWHI - Justin Booth
+34,10171,Waipuna,Waipuna Permanent,DUMP_SITE,,-39.46535,175.15782,3363,,waipuna station
+34,3800,Waipuna 01,Waipuna,HONEY,,-39.47627,175.15643,1386,Waipuna Station,AWHI - Greg Shaw
+34,3801,Waipuna 02,Waipuna,HONEY,,-39.48035,175.15366,1386,Waipuna Station,AWHI - Greg Shaw
+34,3802,Waipuna 03,Waipuna,HONEY,,-39.49014,175.15063,1386,Waipuna Station,AWHI - Greg Shaw
+34,3803,Waipuna 04,Waipuna,HONEY,,-39.489049,175.146947,1386,Waipuna Station,AWHI - Greg Shaw
+34,3804,Waipuna 05,Waipuna,HONEY,,-39.48529,175.144,1386,Waipuna Station,AWHI - Greg Shaw
+34,3805,Waipuna 06,Waipuna,HONEY,,-39.49534,175.14763,1386,Waipuna Station,AWHI - Greg Shaw
+34,3743,Waipuna 07,Waipuna,HONEY,,-39.49611,175.15387,1386,Waipuna Station,AWHI - Greg Shaw
+34,3806,Waipuna 08 ,Waipuna,HONEY,,-39.49145,175.13313,1386,Waipuna Station,AWHI - Greg Shaw
+34,3807,Waipuna 09 ,Waipuna,HONEY,,-39.50172,175.13811,1386,Waipuna Station,AWHI - Greg Shaw
+34,12970,Waipuna 10 ,Waipuna,HONEY,,-39.49331,175.13787,1386,Waipuna Station,AWHI - Greg Shaw
+34,12976,Waipuna 14,Waipuna,HONEY,,-39.50881,175.16775,1386,Waipuna Station,AWHI - Greg Shaw
+34,12971,Waipuna 15,Waipuna,HONEY,,-39.50961,175.19254,1386,Waipuna Station,AWHI - Greg Shaw
+34,12975,Waipuna 16,Waipuna,HONEY,,-39.51907,175.15111,1386,Waipuna Station,AWHI - Greg Shaw
+34,12977,Waipuna 17,Waipuna,HONEY,,-39.49928,175.17604,1386,Waipuna Station,AWHI - Greg Shaw
+34,16008,Waipuna 20,Waipuna,PERMANENT,,-39.48533,175.15241,,,
+34,16009,Waipuna 21,Waipuna,HONEY,,-39.481,175.15209,,,
+34,16010,Waipuna 22,Waipuna,HONEY,,-39.49328,175.12963,,,
+34,16011,Waipuna 23,Waipuna,HONEY,,-39.51305,175.19575,,,
+34,16012,Waipuna 24,Waipuna,HONEY,,-39.52353,175.18257,,,
+34,17161,Waipuna Horse Paddock,Waipuna Permanent,PERMANENT,182,-39.45861,175.15689,,,
+34,17159,Waipuna Old Cattle Yards,Waipuna Permanent,PERMANENT,185,-39.45727,175.18862,1386,Waipuna Station,AWHI - Greg Shaw
+34,17160,Waipuna Old Sheep Yards,Waipuna Permanent,PERMANENT,191,-39.45819,175.17656,,,
+34,28699,Ward 1,Makakahi,WINTERING,312,-39.344181,175.163252,6415,,John Ward
+34,28700,Ward 2,Makakahi,WINTERING,327,-39.34402,175.16451,6415,,John Ward
+34,28701,Ward 3,Makakahi,WINTERING,314,-39.350527,175.147628,6415,,John Ward
+34,28703,Ward 4,Makakahi,WINTERING,316,-39.354988,175.15112,6415,,John Ward
+34,28702,Ward 5,Makakahi,WINTERING,315,-39.357499,175.148653,6415,,John Ward
+34,9861,willow,Te Pa,HONEY,,-39.51374,175.36215,1384,Tepa Station,AWHI - Hamish
+34,23525,WP 1,Waipuna,HONEY,192,-39.49023,175.19385,,,
+34,23527,WP 2,Waipuna,HONEY,193,-39.49127,175.20525,,,
+34,23528,WP 3,Waipuna,HONEY,194,-39.49588,175.21563,,,
+34,23537,WP 4,Waipuna,HONEY,195,-39.50044,175.19197,,,
+34,23547,WP 5,Waipuna,HONEY,198,-39.51274,175.18633,,,
+34,23549,WP 6,Waipuna,HONEY,199,-39.51815,175.18326,,,
+34,23552,WP 7,Waipuna,HONEY,200,-39.52077,175.17819,,,
+34,23553,WP Back ,Waipuna,HONEY,,-39.52676,175.17187,,,
+34,23545,WP Heli 1 ,Waipuna,HONEY,201,-39.51245,175.19647,,,
+34,23555,WP Heli 2,Waipuna,HONEY,202,-39.50025,175.16647,,,
+34,23557,WP Heli 3,Waipuna,HONEY,203,-39.52276,175.15065,,,
+34,23540,WP Paddock,Waipuna,HONEY,196,-39.51019,175.19273,,,
+34,23543,WP Paddock 2,Waipuna,HONEY,197,-39.51047,175.18943,,,
+34,28474,WP Wool Shed,Waipuna,HONEY,309,-39.5034,175.19021,1386,Waipuna Station,AWHI - Greg Shaw
